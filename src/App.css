@@ -5,3 +5,19 @@
     padding-top: 8px;
     padding-bottom: 8px;
 }
+.nav{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.a{
+color: white;
+}
+
+.ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
