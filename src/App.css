@@ -4,13 +4,25 @@
     text-align: center;
     padding-top: 8px;
     padding-bottom: 8px;
+    border:2px solid green;
+    border-radius: 50px;
+    border: none;
+    font-weight: bold;
+    font-size: large;
+    font-size: 14px;
+    font-style: italic;
+    cursor: pointer;
+
 }
 .nav{
     display: flex;
     justify-content: center;
     background-color: black;
-    padding-top: 8px;
-    padding-bottom: 8px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border: 2px solid red;
+    border-radius: 50px;
+    border: none;
 }
 .a{
 color: white;
