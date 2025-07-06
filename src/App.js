@@ -1,11 +1,13 @@
 import React, { useState } from "react";
+import Button from './components/Button';
 import './App.css'
 import Header from './components/Header'
 import Footer from './components/Footer';
 
 function App() {
-  return (
-    <div> 
+  return ( 
+    <div className="div"> 
+   <Button/>   
    <nav className="nav">
     <ul className="ul">
       <a className="a" href="mailto:kweyambapeter@gmail.com">Email</a>
@@ -24,9 +26,7 @@ function App() {
       <br/>
     </ul>
    </nav>
-    <Footer
-    
-    /> 
+    <Footer/> 
     </div>
   );
 }
