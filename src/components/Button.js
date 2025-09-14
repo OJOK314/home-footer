@@ -45,6 +45,7 @@ const Button = () => {
         and do not spam ever. We alslo do not share any of your information
         without your consent and compensation · Interests Interests Expand
         Artist Opportunities Get Involved | Networking Start
+       
       </p>
     </div>
   );
